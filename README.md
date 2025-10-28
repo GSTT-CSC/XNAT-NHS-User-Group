@@ -18,7 +18,25 @@ Membership is open to NHS employees, academic collaborators and other profession
 Current members include representatives from multiple NHS Trusts and partner organisations.
 
 Members (as of October 2025):
-- Dika Vilic
+- Dika Vilic (Chair)
+- Dan Beasley
+- Qurban Mohebi
+- Yoana Dimitrova
+- Adam Brookes
+- Keri Anderson
+- Molly Buckley
+- Eleanor Stylianides
+- Elise Pather
+- Gregory Verghese
+- Mohammad Al-Agil
+- Arman Eshaghi
+- Shalini Chandran
+- Konstantina Dimitrakopoulou
+- Virgiliu Craciun
+- Neil O'Brien
+- Deck Tan
+- Mengyuan Li
+- Elisabetta Frijia
 
 ### Quorum
 
@@ -35,10 +53,10 @@ Structure:
 - Review of outstanding actions
 
 Agenda setting
-- Agendas will be circulated in advance, with issues and discussion topics submitted by members through the Teams channel or shared form.
+- Agendas will be circulated in advance, with issues and discussion topics submitted by members through the Teams channel, via email or raising a github issue. Agendas will also be populated in github issues ahead of the meetings. 
 
 Minutes
-- A designated minute taker will take minutes using the template issue within this repository and circulate draft within 5 working days.
+- A designated minute taker will take minutes using the template issue within this repository and circulate to the members within 5 working days.
 
 ### Communication Channels
 - Microsoft Teams: For ongoing discussions, announcements, document sharing etc.
