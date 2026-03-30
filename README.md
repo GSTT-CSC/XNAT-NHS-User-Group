@@ -2,6 +2,8 @@
 - Tues 25th Nov 2025 - 1pm
 - Tues 27th Jan 2026 - 1pm
 - Tues 24th Feb 2026 - 1pm
+- Tues 31st Mar 2026 - 1pm
+- Tues 28th Apr 2026 - 1pm
 
 ## XNAT NHS User Group - Terms of Reference
 
@@ -42,6 +44,7 @@ Members (as of October 2025):
 - Deck Tan
 - Mengyuan Li
 - Elisabetta Frijia
+- Kristina Zeljic
 
 ### Quorum
 
